@@ -3,13 +3,13 @@
 将 png 转成 jpg
 
 ```sh
-ptj <absolutefolder>
+ptj <absolutefolder | absoluteFilePath>
 ```
 
 查询文件头
 
 ```sh
-ptj h <absolutePath>
+ptj h <absoluteFilePath>
 ```
 
 jpg 文件头：ff d8 ff e0 00
