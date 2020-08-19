@@ -17,7 +17,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "images": "^3.2.3",
-    "inquirer": "^7.1.0"
+    "commander": "^6.0.0",
+    "images": "^3.2.3"
   }
 }
