@@ -14,3 +14,13 @@ ptj h <absoluteFilePath>
 
 jpg 文件头：ff d8 ff e0 00
 png 文件头：89 50 4e 47 0d
+
+
+#### 安装
+
+```shell
+npm i png-to-jpg -g
+
+```
+
+
